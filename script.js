@@ -1,5 +1,5 @@
 const cats = [
-    // Ваш массив с данными о котиках
+
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
